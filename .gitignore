@@ -1,0 +1,17 @@
+*.png
+*.pyc
+*.p
+*.ion
+
+/ds.py
+/plot.py
+
+/__pycache__/*
+/misc/*
+/remote/*
+/hist/*
+
+/dss/notgood/*
+/dss/*/*
+!/dss/*/ds.py
+!/dss/*/plot.py
